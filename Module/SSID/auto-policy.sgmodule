@@ -1,6 +1,6 @@
 #!name=Surge自动策略
-#!desc=根据当前网络自动切换模式 by Peng-YM
+#!desc=根据当前网络自动切换模式
 
 [Script]
 
-event network-changed script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.js
+event network-changed script-path= https://raw.githubusercontent.com/HsiaoweiYuen/Surge/master/Module/SSID/auto-policy.js
