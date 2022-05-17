@@ -1,6 +1,6 @@
 #!name=自动策略
 #!desc=根据当前网络自动切换模式
-#!author=HsiaoweiYuen
+#!author=Surge
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png
 
 [Script]
