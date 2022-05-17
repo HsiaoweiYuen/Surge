@@ -1,5 +1,5 @@
-#!name=Surge自动策略
-#!desc=根据当前网络自动切换模式 by HsiaoweiYuen
+#!name=Surge智能策略
+#!desc=根据当前网络自动切换模式
 
 [Script]
 
