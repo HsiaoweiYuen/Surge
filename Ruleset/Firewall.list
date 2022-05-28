@@ -2,6 +2,10 @@
 #成人网站
 # pornhub
 DOMAIN-SUFFIX,pornhub.com
+#key pornhub
+DOMAIN-KEYWORD,pornhub
+#key porn
+DOMAIN-KEYWORD,porn
 # xvideos
 DOMAIN-SUFFIX,xvideos.com
 # xnxx
@@ -10,3 +14,5 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xhamster.com
 # eporner
 DOMAIN-SUFFIX,eporner.com
+#色情网站列表
+DOMAIN-SUFFIX,theporndude.com
