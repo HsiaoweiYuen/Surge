@@ -1,5 +1,5 @@
 #企业家庭内部防火墙
-#成人网站
+#z知名成人网站
 # pornhub
 DOMAIN-SUFFIX,pornhub.com
 #key pornhub
@@ -14,6 +14,10 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xhamster.com
 # eporner
 DOMAIN-SUFFIX,eporner.com
+
+#PT成人站
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-KEYWORD,javdb
 
 #色情网站列表
 DOMAIN-SUFFIX,theporndude.com
