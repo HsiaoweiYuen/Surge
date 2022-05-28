@@ -15,6 +15,10 @@ DOMAIN-SUFFIX,xhamster.com
 # eporner
 DOMAIN-SUFFIX,eporner.com
 
+#AV站点
+DOMAIN-SUFFIX,r18.com
+DOMAIN-KEYWORD,r18
+
 #PT成人站
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-KEYWORD,javdb
@@ -26,3 +30,4 @@ DOMAIN-SUFFIX,huangse.love
 #其他
 DOMAIN-SUFFIX,ixxx.com
 DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,54647.io
