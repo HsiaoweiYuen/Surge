@@ -1,2 +1,6 @@
 # > Google Voice
 DOMAIN,lens.l.google.com
+# > Google Search
+DOMAIN-KEYWORD,www.google.
+# > Chromecast with Google TV
+DOMAIN-KEYWORD,pa.google
