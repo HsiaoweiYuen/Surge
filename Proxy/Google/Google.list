@@ -4,3 +4,8 @@ DOMAIN,lens.l.google.com
 DOMAIN-KEYWORD,www.google.
 # > Chromecast with Google TV
 DOMAIN-KEYWORD,pa.google
+#gmail
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,smtp.gmail.com
+DOMAIN-SUFFIX,imap.gmail.com
+DOMAIN-KEYWORD,mail
