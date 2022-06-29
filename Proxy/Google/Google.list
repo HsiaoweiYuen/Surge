@@ -6,6 +6,3 @@ DOMAIN-KEYWORD,www.google.
 DOMAIN-KEYWORD,pa.google
 #gmail
 DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,smtp.gmail.com
-DOMAIN-SUFFIX,imap.gmail.com
-DOMAIN-KEYWORD,mail
