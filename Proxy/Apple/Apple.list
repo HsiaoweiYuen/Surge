@@ -6,3 +6,5 @@ DOMAIN,beta.music.apple.com // Apple Music Web
 DOMAIN,books.itunes.apple.com // iBooks Store download
 DOMAIN,lookup-api.apple.com // Look Up
 DOMAIN,radio.itunes.apple.com // Apple Music Radio
+# > Apple
+DOMAIN,testflight.apple.com
