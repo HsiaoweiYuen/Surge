@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,epochtimes.com
-DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,pincong.rocks
+# 美国之音
+DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,voanews-vh.akamaihd.net
 DOMAIN-SUFFIX,gdb.voanews.com
