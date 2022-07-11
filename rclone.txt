@@ -1,0 +1,27 @@
+[Japan]
+type = drive
+client_id = 896790705244-fog5ghmb4tnjv76fcel9ecl9g05cc318.apps.googleusercontent.com
+client_secret = 9VLdMhr1YmI3GCRDT1i-NZNQ
+scope = drive
+token = {"access_token":"ya29.a0AVA9y1tiew-aYiouVS4P-Y9qc3_Ezjl6RYWXSUtdjyOP1R4_ol9n_Xql026D853c6NvkEi-tvVUhL2AqO4bt-XkPgTqUelzvVITUlHxNjSf0v0PvTlMBg71pTm0MBkyELJm0dxKAircd-WZrdiaotDcBJwL3eg","token_type":"Bearer","refresh_token":"1//06Leu4fMH58kiCgYIARAAGAYSNwF-L9IrTNeyoqvcb1_rOUvWRXjxz-Zki7CEJ1cm-swCIDcPepJoK4AMa4Ak1fkcV2WUe4wF944","expiry":"2022-07-11T01:37:02.925551693Z"}
+team_drive = 0AOl15Y7hNya8Uk9PVA
+root_folder_id = 
+
+[Japorn]
+type = drive
+client_id = 896790705244-fog5ghmb4tnjv76fcel9ecl9g05cc318.apps.googleusercontent.com
+client_secret = 9VLdMhr1YmI3GCRDT1i-NZNQ
+scope = drive
+token = {"access_token":"ya29.a0AVA9y1s3CvouROsFQCM8dRa5z7oVMgZtBnlfs5KNoqO62IGlEBvONVnITvEz5ISk2tKWsAS1Q_F6loNfSvRvyVRN-tEp7_78F3svZ29_eIZHk2KdW9bGu_8Y-jaa07BIvkhUj7ZoT0VfNcX8EJtIp9H_CsgGxg","token_type":"Bearer","refresh_token":"1//06QBfRTJMP9mFCgYIARAAGAYSNwF-L9IrNZinfBHO4ObC58v6rzN7m4q6pxCy2_P0fxW_M6NabZj6TSLGNt5vGT7NvYPOhAIa6HU","expiry":"2022-07-11T01:50:02.938990256Z"}
+team_drive = 0AI_SjUlCvnfEUk9PVA
+root_folder_id = 
+
+[Homemade]
+type = drive
+client_id = 896790705244-fog5ghmb4tnjv76fcel9ecl9g05cc318.apps.googleusercontent.com
+client_secret = 9VLdMhr1YmI3GCRDT1i-NZNQ
+scope = drive
+token = {"access_token":"ya29.a0AVA9y1vFPKfwM2xC_toZ19y0DEjIG7S0qQlmTHSs2fDseCvD0jdPvL5duGmj76GeX-Ae7gKmKVE7ibVNQmB32C9vpCVJFgIePxaolFLjEOJPpG_xaSuKTihxJCfiWKbOdnU5p_sHlpu7ILIYsQ-mJ1LyrNQyWw","token_type":"Bearer","refresh_token":"1//06s-dyJkEJIszCgYIARAAGAYSNwF-L9Ir6N4k87FRa3tRAmTs6iUqmVNNB6bkZwP-1Mzmf7Sax0lha6xQeyVAmi9tolURfwGILNY","expiry":"2022-07-11T01:25:02.691994912Z"}
+team_drive = 0AG_bHqdeDGv3Uk9PVA
+root_folder_id = 
+
